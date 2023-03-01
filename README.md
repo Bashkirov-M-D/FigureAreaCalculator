@@ -1,2 +1,2 @@
 # FigureAreaCalculator
-Calculates areas of some figures based on their parameters
+Calculates areas of some figures based on their parameters 
